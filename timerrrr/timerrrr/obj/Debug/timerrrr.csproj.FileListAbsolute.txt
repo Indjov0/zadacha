@@ -1,0 +1,10 @@
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\bin\Debug\timerrrr.exe.config
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\bin\Debug\timerrrr.exe
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\bin\Debug\timerrrr.pdb
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.csproj.AssemblyReference.cache
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.Form1.resources
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.Properties.Resources.resources
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.csproj.GenerateResource.cache
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.exe
+C:\Users\1409-12\source\repos\timerrrr\timerrrr\obj\Debug\timerrrr.pdb
